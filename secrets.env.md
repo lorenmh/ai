@@ -1,3 +1,3 @@
 ```
-export OPENAI_KEY=key
+OPENAI_KEY=key
 ```

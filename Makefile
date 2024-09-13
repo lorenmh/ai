@@ -2,6 +2,10 @@
 venv:
 	python3.12 -m venv .venv
 
+.PHONY: install-piptools
+install-piptools:
+	srcenv pip install pip-tools
+
 .PHONY: install
 install:
 	srcenv pip install -r requirements.txt
