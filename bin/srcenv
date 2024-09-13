@@ -1,0 +1,9 @@
+#!/bin/bash
+
+set -o allexport
+cd `dirname $0`/..
+source "./.venv/bin/activate"
+source "./secrets.env"
+cd - 1>/dev/null
+exec "$@"
+set +o allexport
