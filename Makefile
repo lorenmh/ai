@@ -16,7 +16,7 @@ run:
 
 .PHONY: shell
 shell:
-	srcenv ipython -i scripts/shell.py
+	srcenv ipython -i src/main.py
 
 .PHONY: pip-compile
 pip-compile:

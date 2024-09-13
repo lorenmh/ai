@@ -1,5 +1,8 @@
-from config import Config
+from experiments import roles
+from instance import openai_client
 
-config = Config()
+def main():
+    roles.run()
 
-print(config.openai_key)
+if __name__ == "__main__":
+    main()
