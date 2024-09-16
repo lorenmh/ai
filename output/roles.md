@@ -277,3 +277,12 @@
 - Financial Analyst
 - Customer Support Representative
 
+## Human Resources
+- HR Manager
+- Recruiter
+- Training Coordinator
+- HR Generalist
+- Compensation and Benefits Specialist
+- HR Assistant
+
+## Information Technology
