@@ -1,0 +1,97 @@
+{
+  "Engineering": [
+    "Software Engineer | Backend",
+    "Senior Software Engineer | Backend",
+    "Staff Software Engineer | Backend",
+    "Software Engineer | Frontend",
+    "Senior Software Engineer | Frontend",
+    "Staff Software Engineer | Frontend",
+    "Staff Software Engineer | Cloud Security",
+    "Director of Engineering | Infrastructure",
+    "Senior Software Engineer | Data Platform",
+    "Senior Software Engineer | Infrastructure",
+    "Software Engineer | Android",
+    "Software Engineer | Applied AI",
+    "Software Engineer | iOS",
+    "Staff Software Engineer | Forward Deployed",
+    "Staff Software Engineer | iOS"
+  ],
+  "Data": [
+    "Senior Analytics Engineer"
+  ],
+  "Design": [
+    "Staff Product Designer | Travel",
+    "Staff Product Designer",
+    "Senior Product Designer",
+    "Director, Product Design",
+    "Brand Designer | Motion"
+  ],
+  "Sales": [
+    "Sales Development Representative",
+    "Partner Development Representative",
+    "Account Executive | Mid-Market",
+    "Account Executive | Commercial",
+    "Account Executive | Large Accounts",
+    "Account Manager | Growth",
+    "Account Manager | Mid-Market",
+    "Channel Partner Manager | Accounting",
+    "Channel Partner Manager | Alliances",
+    "Commercial Account Manager",
+    "Customer Activation Manager | Enterprise",
+    "Customer Activation Manager | Mid-Market",
+    "Enterprise Account Executive",
+    "Partner Consultant",
+    "Senior Manager, Channel Sales",
+    "Senior Partner Marketing Manager | Alliances",
+    "Solutions Consultant"
+  ],
+  "Revenue Operations": [
+    "Sales Operations Analyst",
+    "Director, Sales Operations"
+  ],
+  "BD & Partnerships": [
+    "Product Partnerships Manager",
+    "Director, Product Partnerships"
+  ],
+  "Risk": [
+    "Risk Operations Specialist | Portfolio Risk Management",
+    "Fraud Risk Analyst",
+    "Risk Operations Lead | Portfolio Risk Management"
+  ],
+  "Corporate": [
+    "Executive Assistant"
+  ],
+  "People & Talent": [
+    "Technical Sourcer | Contract",
+    "Recruiter, Emerging Talent | Contract"
+  ],
+  "Growth": [
+    "SEO Associate",
+    "SEO Editor | Contract"
+  ],
+  "Marketing": [
+    "Performance Marketing Manager | Display & Social",
+    "Performance Marketing Manager | SEM",
+    "Field Marketing Manager",
+    "Employee Communications Lead"
+  ],
+  "Product": [
+    "Director, Product Operations",
+    "Senior Product Operations Specialist | Generalist"
+  ],
+  "Customer Experience": [
+    "Lead, Customer Experience",
+    "Customer Experience Agent"
+  ],
+  "Finance": [
+    "Associate, Strategic Finance"
+  ],
+  "Emerging Talent": [
+    "Software Engineer Internship | Backend",
+    "Software Engineer Internship | Frontend",
+    "University Grad 2025: Software Engineer - Backend",
+    "University Grad 2025: Software Engineer - Frontend",
+    "University Grad: Customer Experience Agent",
+    "University Grad: Sales Development Representative"
+  ]
+}

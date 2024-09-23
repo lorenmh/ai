@@ -1,0 +1,184 @@
+{
+  "Sales": [
+    "Account Executive",
+    "Senior Account Executive",
+    "Account Manager",
+    "Senior Client Specialist",
+    "Sales",
+    "Client Specialist"
+  ],
+  "Customer Service": [
+    "Customer Success Manager",
+    "Customer Service Representative",
+    "Customer Support Representative",
+    "Customer Specialist",
+    "Senior Customer Service Representative",
+    "Front Desk Agent"
+  ],
+  "Software Development": [
+    "Software Engineer",
+    "Product Manager",
+    "Software Engineer Intern",
+    "Site Reliability Engineer",
+    "Senior Software Engineer",
+    "Automation Engineer"
+  ],
+  "Administrative Assistance": [
+    "Client Services Specialist",
+    "Operations Associate",
+    "Data Entry Clerk",
+    "Administrative Assistant",
+    "Receptionist",
+    "Contract Specialist"
+  ],
+  "Human Resources": [
+    "Recruiter",
+    "Recruiting Coordinator",
+    "Technical Recruiter",
+    "Contract Recruiter",
+    "Director of Recruiting",
+    "Senior Recruiter"
+  ],
+  "Information Design & Documentation": [
+    "User Experience Designer",
+    "Business Intelligence Analyst",
+    "User Experience Researcher",
+    "Quality Analyst",
+    "Data Analyst",
+    "Research Engineer"
+  ],
+  "Management": [
+    "Manager",
+    "Team Leader",
+    "Senior Manager",
+    "Director",
+    "Client Manager",
+    "Senior Director"
+  ],
+  "Mathematics": [
+    "Analyst",
+    "Data Scientist",
+    "Senior Analyst"
+  ],
+  "Project Management": [
+    "Program Manager",
+    "Project Manager",
+    "Technical Project Manager"
+  ],
+  "Loading and Stocking": [
+    "Warehouse Lead",
+    "Packer",
+    "Mover",
+    "Warehouse Associate",
+    "Warehouse Worker"
+  ],
+  "Marketing": [
+    "Marketing Manager",
+    "Content Writer",
+    "Senior Marketer",
+    "Copywriter",
+    "Content Marketer",
+    "Marketing Intern"
+  ],
+  "Media & Communications": [
+    "Writer",
+    "Writer/Editor",
+    "Proofreader",
+    "Moderator",
+    "Senior Visual Designer",
+    "Editor"
+  ],
+  "IT Operations & Helpdesk": [
+    "Systems Administrator",
+    "IT Support",
+    "Senior Network Engineer",
+    "IT Technician"
+  ],
+  "Legal": [
+    "Legal Analyst",
+    "Data Governance Analyst"
+  ],
+  "Community & Social Service": [
+    "Career Counselor",
+    "Becario/a en administración de turismo",
+    "Career Coach"
+  ],
+  "Cleaning & Sanitation": [
+    "Housekeeper"
+  ],
+  "Social Science": [
+    "Taxonomy Analyst",
+    "Geographer"
+  ],
+  "Scientific Research & Development": [
+    "Researcher",
+    "Research Assistant"
+  ],
+  "Accounting": [
+    "Accounts Receivable Clerk",
+    "Accounts Payable Specialist",
+    "Travel and Expenses Specialist",
+    "Financial Analyst",
+    "Senior Accountant"
+  ],
+  "Construction": [
+    "Sandblaster"
+  ],
+  "Hospitality & Tourism": [
+    "Event Specialist"
+  ],
+  "Medical Technician": [
+    "Certified Medical Assistant"
+  ],
+  "Education & Instruction": [
+    "Teaching Assistant",
+    "Training Specialist",
+    "Training Coordinator",
+    "Learning Specialist"
+  ],
+  "Arts & Entertainment": [
+    "Freelance Designer",
+    "Content Strategist",
+    "Senior Content Strategist"
+  ],
+  "Production & Manufacturing": [
+    "Manufacturing Associate",
+    "Quality Specialist"
+  ],
+  "Driving": [
+    "Independent Contractor"
+  ],
+  "Industrial Engineering": [
+    "Staff Engineer",
+    "Security Engineer"
+  ],
+  "Banking & Finance": [
+    "Risk Analyst",
+    "Team Leader, Investment Solutions"
+  ],
+  "Sports": [
+    "Coach"
+  ],
+  "Childcare": [
+    "Preschool Teacher",
+    "Babysitter/Nanny"
+  ],
+  "Installation & Maintenance": [
+    "Senior Technician",
+    "Maintenance Person",
+    "Facility Supervisor"
+  ],
+  "Architecture": [
+    "Architect"
+  ],
+  "Food Preparation & Service": [
+    "Barista",
+    "Restaurant Staff"
+  ],
+  "Retail": [
+    "Team Supervisor"
+  ],
+  "Security & Public Safety": [
+    "Flex Officer"
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "Software Development": [
+    "Software Engineer",
+    "Software Engineer Intern",
+    "Senior Software Engineer",
+    "Technical Program Manager",
+    "Product Manager",
+    "Developer"
+  ],
+  "Project Management": [
+    "Program Manager",
+    "Project Manager",
+    "Project Coordinator",
+    "Senior Program Manager",
+    "Technical Project Manager",
+    "Implementation Specialist"
+  ],
+  "Loading and Stocking": [
+    "Warehouse Worker",
+    "Fulfillment Associate",
+    "Warehouse Lead",
+    "Material Handler",
+    "Warehouse Associate",
+    "Fulfillment Manager"
+  ],
+  "Administrative Assistance": [
+    "Operations Associate",
+    "Administrative Assistant",
+    "Data Entry Clerk",
+    "Receptionist",
+    "Operations Coordinator",
+    "Scanner"
+  ],
+  "Customer Service": [
+    "Customer Service Representative",
+    "Call Center Representative",
+    "Technical Support Representative",
+    "Product Support",
+    "Support Specialist",
+    "Attendant"
+  ],
+  "Mathematics": [
+    "Analyst",
+    "Data Scientist",
+    "Data Evaluator",
+    "Senior Analyst"
+  ],
+  "Management": [
+    "Manager",
+    "Operations Lead",
+    "Operations Manager",
+    "Team Leader",
+    "Consultant",
+    "Chief Executive Officer"
+  ],
+  "Information Design & Documentation": [
+    "Data Analyst",
+    "Data Specialist",
+    "User Experience Designer",
+    "Quality Assurance Analyst",
+    "Senior Data Specialist",
+    "Business Analyst"
+  ],
+  "Driving": [
+    "Driver",
+    "Delivery Driver",
+    "Courier",
+    "Courier Driver",
+    "Driver (Independent Contractor)",
+    "Owner Operator Driver"
+  ],
+  "Sales": [
+    "Account Executive",
+    "Sales Associate",
+    "Account Manager",
+    "Sales",
+    "Account Strategist",
+    "Sales Representative"
+  ],
+  "Installation & Maintenance": [
+    "Operator",
+    "Technician",
+    "Fiber Technician",
+    "Engineering Technician",
+    "Maintenance Technician",
+    "Field Operator"
+  ],
+  "Industrial Engineering": [
+    "Test Engineer",
+    "Engineering Manager",
+    "System Engineer",
+    "Senior Test Engineer",
+    "Senior Staff Engineer",
+    "Manufacturing Engineer"
+  ],
+  "Cleaning & Sanitation": [
+    "Janitor",
+    "Custodian",
+    "Cleaner",
+    "Housekeeper",
+    "Sanitation Worker",
+    "Room Attendant"
+  ],
+  "Production & Manufacturing": [
+    "Quality Rater",
+    "Quality Control Associate",
+    "Assembler",
+    "Production Manager",
+    "Assembly Technician",
+    "Product Tester"
+  ],
+  "Marketing": [
+    "Ads Reviewer",
+    "Brand Ambassador",
+    "Content Writer",
+    "Product Marketing Manager",
+    "Digital Marketer",
+    "Marketing Intern"
+  ],
+  "IT Operations & Helpdesk": [
+    "Data Center Technician",
+    "Technical Support",
+    "IT Technician",
+    "Network Engineer",
+    "IT Support",
+    "Customer Engineer"
+  ],
+  "Human Resources": [
+    "Recruitment Resourcer",
+    "Recruiter",
+    "Technical Recruiter",
+    "Recruiting Coordinator",
+    "Contract Recruiter",
+    "Human Resources Manager"
+  ],
+  "Security & Public Safety": [
+    "Security Officer",
+    "Security Specialist",
+    "Security Supervisor",
+    "Security Guard",
+    "Special Forces Operator",
+    "Custom Protection Officer"
+  ],
+  "Scientific Research & Development": [
+    "Researcher",
+    "Data Collector",
+    "R&D Engineer",
+    "Research Assistant",
+    "Research Associate",
+    "Research Manager"
+  ],
+  "Retail": [
+    "Retail Sales Associate",
+    "Store Manager",
+    "Personal Shopper",
+    "Retail Solutions Consultant",
+    "Service Associate",
+    "Lead Associate"
+  ],
+  "Arts & Entertainment": [
+    "Designer",
+    "Performer",
+    "Senior Content Strategist",
+    "Master Control Operator",
+    "Lead Designer",
+    "Content Producer"
+  ],
+  "Media & Communications": [
+    "Photographer",
+    "Graphic Designer",
+    "Moderator",
+    "Video Editor",
+    "Editor",
+    "Videographer/Editor"
+  ],
+  "Mechanical Engineering": [
+    "Hardware Engineer",
+    "Hardware Technician",
+    "Mechanical Designer",
+    "Senior Hardware Engineer",
+    "Surveyor",
+    "Validation Engineer"
+  ],
+  "Food Preparation & Service": [
+    "Host/Hostess",
+    "Sous Chef",
+    "Line Cook",
+    "Prep Cook",
+    "Barista",
+    "Cook"
+  ],
+  "Education & Instruction": [
+    "Trainer",
+    "Training Manager",
+    "Training Specialist",
+    "Early Childhood Teacher",
+    "Proctor",
+    "Teacher"
+  ],
+  "Legal": [
+    "Compliance Officer",
+    "Legal Assistant",
+    "Senior Policy Analyst",
+    "Document Reviewer",
+    "Counsel",
+    "Paralegal"
+  ],
+  "Construction": [
+    "Laborer",
+    "Participant",
+    "Construction Laborer",
+    "Electrical Contractor",
+    "Industrial Hygiene Manager",
+    "Subcontractor"
+  ],
+  "Social Science": [
+    "Linguist",
+    "Archivist"
+  ],
+  "Therapy": [
+    "Massage Therapist",
+    "Therapist"
+  ],
+  "Logistic Support": [
+    "Logistic Coordinator",
+    "Expediter",
+    "Logistics Technician",
+    "Dispatcher",
+    "Supply Chain Analyst",
+    "Senior Transport Manager"
+  ],
+  "Accounting": [
+    "Auditor",
+    "Financial Analyst",
+    "Finance Manager",
+    "Senior Financial Analyst",
+    "Accounts Payable / Accounts Receivable Clerk",
+    "Procurement Analyst"
+  ],
+  "Banking & Finance": [
+    "Trustee",
+    "Fraud Analyst",
+    "Director of Strategy",
+    "Vice President of Strategic Partnerships",
+    "Fraud Investigator",
+    "Account Analyst"
+  ],
+  "Medical Technician": [
+    "Laboratory Technician",
+    "Imaging Specialist",
+    "Nutrition Assistant",
+    "Medical Technician",
+    "Health Play Specialist",
+    "Senior Technologist"
+  ],
+  "Community & Social Service": [
+    "Program Coordinator",
+    "Health Coach",
+    "Mentor",
+    "Interpreter",
+    "Facilitator",
+    "Social Work Supervisor"
+  ],
+  "Electrical Engineering": [
+    "Electrical Engineer",
+    "EMC Engineer",
+    "Audio Engineer",
+    "Telecommunications Engineer",
+    "Controls Engineer",
+    "Broadcast Engineer"
+  ],
+  "Medical Information": [
+    "Coding Specialist",
+    "Transcriptionist",
+    "Medical Records Clerk"
+  ],
+  "Business Operations": [
+    "Plm Analyst"
+  ],
+  "Sports": [
+    "Coach",
+    "Fitness Instructor",
+    "Personal Trainer"
+  ],
+  "Architecture": [
+    "Architect",
+    "Drafter",
+    "Principal Architect",
+    "Transport Planner",
+    "CAD Technician",
+    "Survey Technician"
+  ],
+  "Hospitality & Tourism": [
+    "Event Staff",
+    "Concierge",
+    "Porter"
+  ],
+  "Civil Engineering": [
+    "Structural Designer",
+    "GIS Analyst",
+    "Component Engineer",
+    "Structural Engineer",
+    "Senior GIS Analyst"
+  ],
+  "Real Estate": [
+    "Property Manager",
+    "Real Estate Analyst",
+    "Real Estate Manager",
+    "Senior Real Estate Manager"
+  ],
+  "Chemical Engineering": [
+    "Optical Engineer"
+  ],
+  "Aviation": [
+    "Pilot"
+  ],
+  "Nursing": [
+    "Triage Nurse",
+    "Nurse"
+  ],
+  "Personal Care & Home Health": [
+    "Support Worker"
+  ],
+  "Childcare": [
+    "Preschool Teacher"
+  ],
+  "Physicians & Surgeons": [
+    "Physician"
+  ]
+}

@@ -2,7 +2,8 @@ from experiments import roles
 from instance import openai_client
 
 def main():
-    roles.run()
+    pass
+    # roles.run()
 
 if __name__ == "__main__":
     main()

@@ -64,6 +64,8 @@ pygments==2.18.0
     # via ipython
 python-dotenv==1.0.1
     # via pydantic-settings
+pyyaml==6.0.2
+    # via -r requirements.in
 six==1.16.0
     # via asttokens
 sniffio==1.3.1

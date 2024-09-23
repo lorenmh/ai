@@ -1,0 +1,30 @@
+{
+  "Software Development": [
+    "Software Engineer",
+    "Software Engineer Intern",
+    "Infrastructure Engineer",
+    "Web Developer"
+  ],
+  "Administrative Assistance": [
+    "Billing Specialist"
+  ],
+  "Marketing": [
+    "Marketing Manager"
+  ],
+  "Customer Service": [
+    "Customer Service Representative"
+  ],
+  "Food Preparation & Service": [
+    "Cook",
+    "Dishwasher"
+  ],
+  "Management": [
+    "Shift Leader"
+  ],
+  "Installation & Maintenance": [
+    "Automotive Technician"
+  ],
+  "Banking & Finance": [
+    "Risk Analyst"
+  ]
+}
